@@ -1,0 +1,30 @@
+* {
+  font-family: arial;
+}
+h1 {
+  text-align: center;
+  color: #111;
+}
+div {
+  background-color: #000000;
+  border-radius: 4px;
+  text-align: left;
+  padding: 30px;
+  margin: 20px;
+}
+p {
+  color: #b2b2b2;
+}
+button {
+  display: inline-block;
+  background-color: #febe01;
+  color: #332200;
+  border-radius: 4px;
+  padding: 10px;
+}
+h2 {
+  color: #fff;
+}
+span {
+  color: #febe01;
+}
